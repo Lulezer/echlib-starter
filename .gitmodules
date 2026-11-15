@@ -1,0 +1,3 @@
+[submodule "thirdparty/echlib"]
+	path = thirdparty/echlib
+	url = https://github.com/Lulezer/Echlib-Library.git
